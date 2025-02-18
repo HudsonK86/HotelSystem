@@ -1,0 +1,15 @@
+1, 101, 0, Single, 200.00, 15.60, 0
+2, 120, 1, Double, 200.00, 19.00, Petcare, 1
+3, 123, 1, Double, 140.00, 15.00, Pool, 1
+4, 145, 0, Double, 100.00, 16.00, 1
+5, 122, 0, Single, 100.00, 15.00, 1
+6, 150, 1, Single, 200.00, 20.00, Petcare|Breakfast|Bar, 1
+7, 132, 1, Double, 250.00, 16.00, Pool, 1
+8, 142, 0, Double, 240.00, 19.00, 0
+9, 144, 0, Double, 400.00, 15.00, 1
+10, 124, 1, Single, 210.00, 15.00, Pool|Breakfast|Bar, 0
+11, 125, 1, Double, 150.00, 15.00, Breakfast|Pool, 1
+12, 129, 1, Double, 550.10, 26.60, Breakfast|Childcare|Pool, 1
+13, 111, 1, Double, 900.00, 22.00, Pool|Bar, 1
+14, 133, 1, Double, 250.00, 20.50, Petcare|BusinessRoom|Bar, 0
+15, 149, 0, Double, 500.00, 20.50, 1

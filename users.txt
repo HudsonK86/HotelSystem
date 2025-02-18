@@ -1,0 +1,10 @@
+1, Administrator, admin, admin, Administrator, 1
+2, Hudson, Hudson, 1111, Hotel Staff, 1
+3, Tam, Tam, 8686, Customer, 1
+4, Val, Val, 8686, Customer, 0
+5, Dang, Dang, 6666, Hotel Staff, 1
+6, Ava, Ava, 8686, Customer, 1
+7, Jahidul, Jahidul, 8686, Customer, 1
+8, Dang, Luong, 8686, Customer, 1
+9, Khoa, Khoa, 8686, Customer, 0
+10, Trevor, Trevor, 8686, Customer, 0
